@@ -2,8 +2,4 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar esse projeto na sua máquina, por favor digite:
-
-```
-node app.js
-```
+Repositório criado para acompanhar o curso de Gt e Github da Alura
